@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="bootstrap\css\bootstrap.min.css" />
+    <Content Include="bootstrap\css\customstylesheet.css" />
     <Content Include="bootstrap\js\bootstrap.min.js" />
     <Content Include="bootstrap\js\jquery-3.5.1.slim.min.js" />
     <Content Include="bootstrap\js\popper.min.js" />

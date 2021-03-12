@@ -5,6 +5,6 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <h1>
-        This is our content webform
+        This is our content web form.
     </h1>
 </asp:Content>
