@@ -38,7 +38,8 @@
                 </button>
                 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav mr-auto">
+                    <%-- Make sure to check this out and fix the issue with right alignment. --%>
+                    <ul class="navbar-nav mr-auto"> 
                         <li class="nav-item active">
                             <a class="nav-link" href="homepage.aspx">Home</a>
                         </li>
