@@ -109,6 +109,7 @@
 
                 </div>
             </div>
+            <!-- ./Footer -->
             <div id="footer2" class="container-fluid">
                 <div class="row">
                     <div class="col-12 col-sm-12 col-md-12 text-center">
@@ -118,7 +119,7 @@
             </div>
 
         </footer>
-        <!-- ./Footer -->
+
 
     </form>
 </body>

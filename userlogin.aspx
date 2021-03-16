@@ -10,35 +10,54 @@
                     <div class="card-body">
                         <div class="row">
                             <div class="col">
-                                <center>
-                                    <img width="150px" src="imgs/icons/012-fisherman.png" />
-                                </center>
+                                <div style="text-align: center">
+                                <img width="150px" src="imgs/icons/012-fisherman.png" />
+                                </div>
                             </div>
+
                         </div>
                         
                         <div class="row">
                             <div class="col">
-                                <center>
+                                <div style="text-align: center">
                                     <h3>Member Login</h3>
-                                </center>
+                                </div>
                             </div>
                         </div>
                         
                         <div class="row">
                             <div class="col">
-                                </hr>
+                                <hr>
                             </div>
+
                         </div>
                         
                         <div class="row">
                             <div class="col">
                                 <div class="col">
-                                    <div class="form-group"></div>
+<%--                                    <label>Member ID</label>--%>
+                                    <div class="form-group">
+                                        <asp:TextBox CssClass="form-control" ID="TextBox1" runat="server" placeholder="Member ID"></asp:TextBox>
+                                    </div>
+                                    
+<%--                                    <label>Password</label>--%>
+                                    <div class="form-group">
+                                        <asp:TextBox CssClass="form-control" ID="TextBox2" runat="server" placeholder="Password" TextMode="Password"></asp:TextBox>
+                                    </div>
+                                    
+
+                                    <div class="form-group">
+                                        <asp:Button CssClass="btn btn-primary col-12" ID="Button1" runat="server" Text="Login" />
+                                    </div>
+                                    
+
+                                    <div class="form-group">
+                                        <input class="btn btn-info col-12" id="Button2" type="button" value="Sign Up" />
+                                    </div>
+
                                 </div>
-                                
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>
