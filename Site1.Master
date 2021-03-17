@@ -29,7 +29,7 @@
         <div> 
             <nav class="navbar navbar-expand-lg navbar-light">
                 <a class="navbar-brand" href="#">
-                    <img src="imgs/salmon-64.png" width="30" height="30" />
+                    <img src="imgs/salmon-64.png" style="width: 30px; height: 30px;" />
                     The Landing Site
                 </a>
                 
